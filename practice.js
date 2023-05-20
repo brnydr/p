@@ -6,3 +6,5 @@ function addEmphasis(stringParam) {
     const result = stringParam.toUpperCase().concat("!!!");
     return result;
 }
+
+//pseudocode for commit
